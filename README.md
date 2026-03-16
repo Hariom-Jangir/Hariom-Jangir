@@ -4,7 +4,6 @@
 
 🎓 BTech Student at IIT Jodhpur
 💻 MERN Stack Developer
-📊 Future Data Analyst
 🤖 Learning AI & Machine Learning
 
 ---
@@ -57,11 +56,11 @@
 
 📊 GitHub Stats
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Hariom-Jangir&show_icons=true&theme=tokyonight)
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom-Jangir &layout=compact&theme=tokyonight)
 
-"GitHub Streak" (https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+"GitHub Streak" (https://github-readme-streak-stats.herokuapp.com/?user=Hariom-Jangir &theme=tokyonight)
 
 ---
 
@@ -83,7 +82,7 @@ Full Stack URL shortener built with Node.js and MongoDB.
 
 🐍 Contribution Snake
 
-"snake gif" (https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+"snake gif" (https://github.com/Hariom-Jangir/Hariom-Jangir/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -93,7 +92,7 @@ Full Stack URL shortener built with Node.js and MongoDB.
 https://linkedin.com/in/YOUR_LINKEDIN
 
 📧 Email
-yourmail@gmail.com
+hariomjangir2006@gmail.com
 
 🌍 Portfolio
 https://yourportfolio.com
@@ -101,9 +100,9 @@ https://yourportfolio.com
 ---
 
 <p align="center">
-  ⭐ From <a href="https://github.com/YOUR_USERNAME">Hariom Jangir</a>
+  ⭐ From <a href="https://github.com/Hariom-Jangir">Hariom Jangir</a>
 </p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Hariom-Jangir &label=Profile%20Views&color=blue&style=flat" />
 </p><!-- ================= FOOTER ================= --><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
 </p>
