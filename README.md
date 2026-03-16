@@ -105,7 +105,7 @@ www.linkedin.com/in/hari-om-jangir-505865313
 [hariomjangir2006@gmail.com](mailto:hariomjangir2006@gmail.com)
 
 🌍 Portfolio
-https://yourportfolio.com
+https://yourportfolio.com (will update soon)
 
 ---
 
