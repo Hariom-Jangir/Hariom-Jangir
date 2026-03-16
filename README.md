@@ -8,7 +8,6 @@
 
 🎓 BTech Student at IIT Jodhpur
 💻 MERN Stack Developer
-📊 Future Data Analyst
 🤖 Learning AI & Machine Learning
 
 ---
@@ -100,7 +99,7 @@ Full Stack URL shortener built with Node.js and MongoDB.
 # 🌐 Connect With Me
 
 💼 LinkedIn
-https://linkedin.com/in/YOUR_LINKEDIN
+www.linkedin.com/in/hari-om-jangir-505865313
 
 📧 Email
 [hariomjangir2006@gmail.com](mailto:hariomjangir2006@gmail.com)
