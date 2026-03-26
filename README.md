@@ -1,7 +1,7 @@
 <!-- ================= BANNER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hariom%20Jangir&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hariom%20Jangir&fontSize=40&fontColor=#3cb371" />
 </p>
 
 # 👋 Hi, I'm Hariom Jangir
