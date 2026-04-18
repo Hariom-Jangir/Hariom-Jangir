@@ -36,9 +36,9 @@
 
 ## ⚙ Backend
 
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 ---
 
 ## 🗄 Database
