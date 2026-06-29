@@ -74,12 +74,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/Hariom-Jangir/Hariom-Jangir/blob/output/github-contribution-grid-snake.svg)
-
----
-
 # 🌐 Connect With Me
 
 💼 LinkedIn
