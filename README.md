@@ -74,22 +74,6 @@
 
 ---
 
-# 🔥 Featured Projects
-
-### 🔐 Password Manager
-
-Full Stack MERN application for securely storing passwords.
-
-### 🎵 Spotify Clone
-
-Music player built using JavaScript.
-
-### 🔗 URL Shortener
-
-Full Stack URL shortener built with Node.js and MongoDB.
-
----
-
 # 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Hariom-Jangir/Hariom-Jangir/blob/output/github-contribution-grid-snake.svg)
