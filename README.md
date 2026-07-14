@@ -1,79 +1,129 @@
-# Hariom Jangir
+<div align="center">
 
-I build full-stack products and machine learning systems, from AI-powered platforms to graph-based routing engines — currently studying Electrical Engineering at IIT Jodhpur.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hariom%20Jangir&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20IIT%20Jodhpur&descAlignY=58&descSize=18" width="100%"/>
 
-[LinkedIn](https://www.linkedin.com/in/hari-om-jangir-505865313) &nbsp;|&nbsp; [GitHub](https://github.com/Hariom-Jangir) &nbsp;|&nbsp; [Portfolio](https://portfolio-hariom-jangir.vercel.app/) &nbsp;|&nbsp; [Email](mailto:hariomjangir2006@gmail.com)
+<a href="https://www.linkedin.com/in/hari-om-jangir-505865313">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Hariom-Jangir">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="https://portfolio-hariom-jangir.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:hariomjangir2006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
----
+<br/><br/>
 
-## About
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9CDB&center=true&vCenter=true&width=650&lines=Building+production-grade+full-stack+applications;Turning+ML+models+into+real+products;Currently+exploring+Agentic+AI+%26+System+Design;Electrical+Engineering+%40+IIT+Jodhpur" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00c6ff&height=3&section=header" width="100%"/>
+
+## About Me
+
+I build full-stack products and machine learning systems, from AI-powered platforms to graph-based routing engines. I care about clean architecture, fast iteration, and shipping things that actually work end to end.
 
 - Building production-grade full-stack applications with the MERN stack — from AI interview platforms to real-time ML recommendation systems
-- Applying machine learning to real problems: classification, recommendation pipelines, and dimensionality reduction with Python and scikit-learn
+- Applying machine learning to real problems: classification, recommendation pipelines, and dimensionality reduction
 - B.Tech in Electrical Engineering, Indian Institute of Technology, Jodhpur (2024 – Present)
 - Driven by AI-powered applications, scalable systems design, and clean backend architecture
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00c6ff&height=3&section=header" width="100%"/>
 
-## Technical Skills
+## Tech Stack
 
-**Languages:** C, C++, JavaScript (ES6+), Python, SQL
+<div align="center">
 
-**Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, Three.js, Framer Motion
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,react,nextjs,html,css,tailwind,threejs,nodejs,express,flask,mongodb,git,github,vscode,postman,vercel&theme=dark" />
 
-**Backend:** Node.js, Express.js, Flask, REST APIs, JWT Authentication
+</div>
 
-**Database:** MongoDB, Mongoose ODM
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00c6ff&height=3&section=header" width="100%"/>
 
-**Core CS:** Data Structures & Algorithms, OOP, DBMS
+## Featured Projects
 
-**Tools:** Git, GitHub, Postman, VS Code, Vercel, Render, Google Colab
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### [PrepAI — AI Interview Prep Platform](#)
+Full-stack platform analyzing resume, job description, and self-description to generate a match score, skill gap analysis, and a 7-day prep roadmap.
 
-## Projects
+`React` `Node.js` `MongoDB` `JWT` `Gemini SDK` `Puppeteer`
 
-### PrepAI — AI Interview Preparation Platform
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Google Gemini SDK` `Puppeteer`
+</td>
+<td width="50%" valign="top">
 
-Full-stack platform that analyzes a user's resume, job description, and self-description to generate a resume-job match score, skill gap analysis, technical and behavioral questions, and a 7-day preparation roadmap. Integrated Google Gemini SDK with pdf-parse for resume extraction, and cookie-based JWT authentication across 12+ protected API routes. Includes server-side ATS resume generation via Puppeteer.
+### [Smart Route Finder System](#)
+Weighted graph routing engine with multi-criteria Dijkstra, DFS-based top-K path enumeration, and a TSP-style trip planner across 50+ cities.
 
-[Repository](#) &nbsp;|&nbsp; [Live Demo](#)
+`C++` `Dijkstra` `DFS` `Graph Theory` `STL`
 
-### Smart Route Finder System
-`C++` `Dijkstra's Algorithm` `DFS` `Graph Theory` `STL`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Weighted graph-based routing engine supporting multi-criteria shortest path computation (cost, time, and composite weighted metric) using Dijkstra's algorithm with an STL min-heap. Includes a DFS-based top-K path enumerator and a TSP-style multi-city trip planner, with full CRUD operations across a network of 50+ cities.
+### [Recipe Recommendation System](#)
+ML web app serving recommendations over 1,000+ recipes using TF-IDF, PCA, and KMeans + KNN, reaching ~88% cross-validation accuracy.
 
-[Repository](#)
+`Python` `Flask` `scikit-learn` `PCA` `KMeans` `React`
 
-### Recipe Recommendation System
-`Python` `Flask` `scikit-learn` `TF-IDF` `PCA` `KMeans` `React.js`
+</td>
+<td width="50%" valign="top">
 
-Full-stack ML web app serving real-time recipe recommendations over 1,000+ recipes using a multi-modal feature pipeline (TF-IDF, One-Hot Encoding, MinMax Scaling). Applied PCA for dimensionality reduction and KMeans + KNN for cuisine classification, achieving approximately 88% cross-validation accuracy. Exposes dual-mode querying via Flask REST API endpoints.
+### [Full-Stack Portfolio Website](#)
+Portfolio with React + Node.js/Express, a Three.js background, and a Resend-powered contact API — 100/100 Lighthouse scores.
 
-[Repository](#) &nbsp;|&nbsp; [Live Demo](#)
+`React` `Three.js` `Framer Motion` `Resend`
 
-### Full-Stack Portfolio Website
-`React.js` `Node.js` `Express.js` `Three.js` `Framer Motion` `Resend`
+</td>
+</tr>
+</table>
 
-Personal portfolio site with a React frontend and Node.js/Express backend, achieving 100/100 Best Practices and SEO scores with mobile-first responsive design. Includes an interactive Three.js background and a contact form backed by the Resend API.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00c6ff&height=3&section=header" width="100%"/>
 
-[Repository](#) &nbsp;|&nbsp; [Live Demo](#)
+## GitHub Analytics
 
----
+<div align="center">
 
-## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Hariom-Jangir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariom-Jangir&theme=tokyonight&hide_border=true" height="165"/>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hariom-Jangir&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom-Jangir&layout=compact&theme=default" height="165" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom-Jangir&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Hariom-Jangir&theme=tokyonight&no-frame=true&row=1&column=6" />
 
-## Contact
+</div>
 
-- Email: [hariomjangir2006@gmail.com](mailto:hariomjangir2006@gmail.com)
-- LinkedIn: [hari-om-jangir](https://www.linkedin.com/in/hari-om-jangir-505865313)
-- Portfolio: [portfolio-hariom-jangir.vercel.app](https://portfolio-hariom-jangir.vercel.app/)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00c6ff&height=3&section=header" width="100%"/>
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Hariom-Jangir/Hariom-Jangir/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+> The animated snake above needs a one-time GitHub Action setup — see the note at the bottom of this README.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00c6ff&height=3&section=header" width="100%"/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Hariom-Jangir&label=Profile%20Views&color=00c6ff&style=flat-square"/>
+
+### Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/hari-om-jangir-505865313) &nbsp;•&nbsp; [Portfolio](https://portfolio-hariom-jangir.vercel.app/) &nbsp;•&nbsp; [Email](mailto:hariomjangir2006@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
