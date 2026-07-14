@@ -56,36 +56,44 @@ I build full-stack products and machine learning systems, from AI-powered platfo
 <tr>
 <td width="50%" valign="top">
 
-### [PrepAI — AI Interview Prep Platform](#)
+### [PrepAI — AI Interview Prep Platform](https://github.com/Hariom-Jangir/resume-ai)
 Full-stack platform analyzing resume, job description, and self-description to generate a match score, skill gap analysis, and a 7-day prep roadmap.
 
 `React` `Node.js` `MongoDB` `JWT` `Gemini SDK` `Puppeteer`
 
+[Repository](https://github.com/Hariom-Jangir/resume-ai) &nbsp;|&nbsp; [Live Demo](https://prepai-hariom.vercel.app/)
+
 </td>
 <td width="50%" valign="top">
 
-### [Smart Route Finder System](#)
+### [Smart Route Finder System](https://github.com/Hariom-Jangir/Smart_Route_Finder)
 Weighted graph routing engine with multi-criteria Dijkstra, DFS-based top-K path enumeration, and a TSP-style trip planner across 50+ cities.
 
 `C++` `Dijkstra` `DFS` `Graph Theory` `STL`
+
+[Repository](https://github.com/Hariom-Jangir/Smart_Route_Finder)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Recipe Recommendation System](#)
+### [Recipe Recommendation System](https://github.com/Hariom-Jangir/Recipe_Recommedation)
 ML web app serving recommendations over 1,000+ recipes using TF-IDF, PCA, and KMeans + KNN, reaching ~88% cross-validation accuracy.
 
 `Python` `Flask` `scikit-learn` `PCA` `KMeans` `React`
 
+[Repository](https://github.com/Hariom-Jangir/Recipe_Recommedation) &nbsp;|&nbsp; [Live Demo](https://recipe-recommedation.vercel.app/)
+
 </td>
 <td width="50%" valign="top">
 
-### [Full-Stack Portfolio Website](#)
+### [Full-Stack Portfolio Website](https://github.com/Hariom-Jangir/Portfolio)
 Portfolio with React + Node.js/Express, a Three.js background, and a Resend-powered contact API — 100/100 Lighthouse scores.
 
 `React` `Three.js` `Framer Motion` `Resend`
+
+[Repository](https://github.com/Hariom-Jangir/Portfolio) &nbsp;|&nbsp; [Live Demo](https://portfolio-hariom-jangir.vercel.app/)
 
 </td>
 </tr>
@@ -97,10 +105,12 @@ Portfolio with React + Node.js/Express, a Three.js background, and a Resend-powe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hariom-Jangir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariom-Jangir&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hariom-Jangir&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Hariom-Jangir&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom-Jangir&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Hariom-Jangir&theme=tokyonight&no-frame=true&row=1&column=6" />
 
