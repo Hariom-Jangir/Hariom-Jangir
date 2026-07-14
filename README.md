@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hariom%20Jangir&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20IIT%20Jodhpur&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=60&duration=3000&pause=100000&color=2C9CDB&center=true&vCenter=true&width=700&height=90&lines=Hariom+Jangir" alt="Hariom Jangir" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=100000&color=8A8F98&center=true&vCenter=true&width=650&height=30&lines=Full-Stack+Developer+%7C+ML+Engineer+%7C+IIT+Jodhpur" alt="tagline" />
+
+<br/>
 
 <a href="https://www.linkedin.com/in/hari-om-jangir-505865313">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -126,4 +130,8 @@ Portfolio with React + Node.js/Express, a Three.js background, and a Resend-powe
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00c6ff&height=3&section=header" width="100%"/>
+
+<div align="center">
+<sub>Thanks for stopping by — feel free to explore the repos above.</sub>
+</div>
