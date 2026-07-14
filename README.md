@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=60&duration=3000&pause=100000&color=2C9CDB&center=true&vCenter=true&width=700&height=90&lines=Hariom+Jangir" alt="Hariom Jangir" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=60&duration=3000&pause=100000&color=2C9CDB&center=true&vCenter=true&width=700&height=90&lines=Hari+Om+Jangir" alt="Hari Om Jangir" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=100000&color=8A8F98&center=true&vCenter=true&width=650&height=30&lines=Full-Stack+Developer+%7C+ML+Engineer+%7C+IIT+Jodhpur" alt="tagline" />
 
@@ -105,10 +105,10 @@ Portfolio with React + Node.js/Express, a Three.js background, and a Resend-powe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hariom-Jangir&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Hariom-Jangir&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=Hariom-Jangir&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom-Jangir&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hariom-Jangir&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/>
 
