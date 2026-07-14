@@ -110,10 +110,6 @@ Portfolio with React + Node.js/Express, a Three.js background, and a Resend-powe
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hariom-Jangir&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hariom-Jangir&theme=tokyonight&no-frame=true&row=1&column=6" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00c6ff&height=3&section=header" width="100%"/>
