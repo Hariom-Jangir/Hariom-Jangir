@@ -105,24 +105,11 @@ Portfolio with React + Node.js/Express, a Three.js background, and a Resend-powe
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Hariom-Jangir&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=Hariom-Jangir&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hariom-Jangir&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00c6ff&height=3&section=header" width="100%"/>
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Hariom-Jangir/Hariom-Jangir/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-> The animated snake above needs a one-time GitHub Action setup — see the note at the bottom of this README.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00c6ff&height=3&section=header" width="100%"/>
 
